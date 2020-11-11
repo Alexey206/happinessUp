@@ -1,5 +1,6 @@
 pip install pytelegrambotapi
 import telebot
+import project
 
 happinessBot = telebot.TeleBot('1300453094:AAG9LiX-DQ0d1SKw-Hiys0kajz2XYt5uGg4')
 
